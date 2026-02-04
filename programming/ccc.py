@@ -4,6 +4,9 @@ inputs=int(input())
 
 gold=0
 
+#https://dmoj.ca/submission/7601820
+#CCC S2 2022
+
 matrix=[]
 for i in range(int(rows)):
     row=[]
