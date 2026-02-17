@@ -12,14 +12,18 @@ This repository serves as my personal knowledge base and practice space for tech
 
 ## Structure
 
+Currently, the repository is focused on Canadian Computing Competition (CCC) problems. Other sections will be added in the future.
+
 ```
-├── algorithms/         # Algorithm implementations and practice
-├── data-structures/    # Data structure implementations
-├── leetcode/          # LeetCode problem solutions
-├── ccc/               # Canadian Computing Competition problems
-├── system-design/     # System design concepts and examples
-├── behavioral/        # Behavioral interview preparation
-└── resources/         # Helpful resources and study materials
+├── ccc/               # Canadian Computing Competition problems (active)
+│   └── programming/   # Programming competition problems and solutions
+│
+├── algorithms/        # [Planned] Algorithm implementations and practice
+├── data-structures/   # [Planned] Data structure implementations
+├── leetcode/         # [Planned] LeetCode problem solutions
+├── system-design/    # [Planned] System design concepts and examples
+├── behavioral/       # [Planned] Behavioral interview preparation
+└── resources/        # [Planned] Helpful resources and study materials
 ```
 
 ## CCC Problem Format
