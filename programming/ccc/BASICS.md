@@ -1,0 +1,1 @@
+Inform about the basics of CCC problems and how to approach them and DMOj and my account
