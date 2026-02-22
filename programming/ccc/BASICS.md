@@ -91,6 +91,20 @@ if __name__ == "__main__":
     main()
 ```
 
+## Finding Solutions
+
+All solutions are stored in this directory with a consistent naming convention:
+- **Format**: `{level}_{year}.py`
+- **Examples**:
+  - `j3_19.py` - Junior level 3, 2019
+  - `s2_02.py` - Senior level 2, 2002
+  - `s1_14.py` - Senior level 1, 2014
+
+Each solution file includes:
+- The complete problem statement at the top
+- A working implementation
+- Comments explaining the approach
+
 ## Resources
 - [DMOJ CCC Problems](https://dmoj.ca/problems/?category=4)
 - [CCC Official Website](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc)
